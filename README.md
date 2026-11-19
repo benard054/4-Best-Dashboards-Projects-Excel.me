@@ -81,6 +81,8 @@ My future learning goals include:
 - [ ] Learn Power BI for advanced visualization.
 - [ ] Learn Python for data analysis.
 - [ ] Build more real-world data analytics projects.
+---
+[View 4 Projects Dashboards Readme](./dashboards/README.md)
 
 
 ## 🤝 Let's Connect!
@@ -101,7 +103,7 @@ and explore new opportunities.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:njorogemaina054@gmail.com">
+  <a href="https://www.facebook.com/njoroo.selector">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
