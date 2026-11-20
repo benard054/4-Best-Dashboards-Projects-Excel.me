@@ -54,6 +54,8 @@ and commuting distances.
 
   ![2_Project_Analysis_Chart4.png](/0_Resources/Images/Bikes%20purchases%20png.png)
 
+  [View Full Dashboard](https://1drv.ms/x/c/d5a91b2e75da4ef6/IQBS6I_iCA5JQokL6cM5F6t1AQOXjeEKrNYki2Hso3NHMss?e=sGjfWb)
+
 ---
 
 ### 🛒 2. Blinkit Sales Analysis Dashboard
@@ -106,6 +108,7 @@ important business metrics and compare outlet performance.
 
  ![2_Project_Analysis_Chart4.png](/0_Resources/Images/Blinkit%20Excel.png)
 
+ [View Full Dashboard](https://1drv.ms/x/c/d5a91b2e75da4ef6/IQC49IF3zj2iTahVwRprM0Q-AS7wsn_sUug9YXB0Lc22k40?e=s87I0h)
 ---
 
 ### ☕ 3. Coffee Sales Dashboard
@@ -155,6 +158,8 @@ sales performance easier to monitor and understand.
 **Dashboard Preview**
     ![2_Project_Analysis_Chart4.png](/0_Resources/Images/Coffee%20Sales.;xls.png)
 
+ ### [View Full Dashboard](https://1drv.ms/x/c/d5a91b2e75da4ef6/IQAqve45USCZToDJhynzFrWhAV20g6L9OyHtr7fv1qtpKXg?e=cJEf3s)
+
 ---
 
 ## 📚 Skills Gained
@@ -178,6 +183,7 @@ in different areas of data analytics.
 **Dashboard Preview**
     ![2_Project_Analysis_Chart4.png](/0_Resources/Images/Sales%20dashboard.png)
 
+ ### [View Full Dashboard](https://1drv.ms/x/c/d5a91b2e75da4ef6/IQA6bGFGYJ4zR5lG2krqwVEBAWTqD0EU90cABrGJSMIfk4A?e=R105bj)
 ### 📑 Excel Dashboard Development
 - Building interactive dashboards.
 - Creating KPI cards.
